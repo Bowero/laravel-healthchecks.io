@@ -1,8 +1,8 @@
 # A Laravel wrapper for healthchecks.io
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bowero/laravel-healthchecks.svg?style=flat-square)](https://packagist.org/packages/bowero/laravel-healthchecks)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/bowero/laravel-healthchecks/run-tests?label=tests)](https://github.com/bowero/laravel-healthchecks/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/bowero/laravel-healthchecks/Check%20&%20fix%20styling?label=code%20style)](https://github.com/bowero/laravel-healthchecks/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/bowero/laravel-healthchecks.io/run-tests?label=tests)](https://github.com/bowero/laravel-healthchecks/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/bowero/laravel-healthchecks.io/Check%20&%20fix%20styling?label=code%20style)](https://github.com/bowero/laravel-healthchecks/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/bowero/laravel-healthchecks.svg?style=flat-square)](https://packagist.org/packages/bowero/laravel-healthchecks)
 
 [Healthchecks.io](https://healthchecks.io) is a service that monitors your cron jobs and alerts you when they are down.
