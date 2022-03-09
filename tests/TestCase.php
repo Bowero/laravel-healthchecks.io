@@ -2,9 +2,9 @@
 
 namespace Bowero\Healthchecks\Tests;
 
+use Bowero\Healthchecks\HealthchecksServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Bowero\Healthchecks\HealthchecksServiceProvider;
 
 class TestCase extends Orchestra
 {
