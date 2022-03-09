@@ -4,7 +4,6 @@ namespace Bowero\Healthchecks;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Bowero\Healthchecks\Commands\HealthchecksCommand;
 
 class HealthchecksServiceProvider extends PackageServiceProvider
 {
