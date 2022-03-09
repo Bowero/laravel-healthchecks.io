@@ -14,18 +14,3 @@ Mark jobs as:
 - Exited with custom status code
 
 Managing jobs is on its way!
-
-## 🚀 Initial release - 2022-03-09
-
-The initial version is ready! You can not manage your existing jobs yet, but the pinging works perfectly! 🚀
-
-## 🚀 Initial release - 2022-03-09
-
-The first version is ready!
-
-This version allows you to mark your jobs. Managing your jobs is not yet possible.
-
-## 1.0.0 - 2022-03-09
-
-- Initial release
-- Add `->success()`, `->failure()`, `->start()` and `->exitWithStatus($status)` methods
